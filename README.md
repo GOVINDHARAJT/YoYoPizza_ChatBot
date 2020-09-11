@@ -4,8 +4,9 @@
 Pizza Ordering ChatBot using Dialogflow and Firebase. Using YoYoPizza ChatBot we can order the pizza.
 
 ## Link for the YoYoPizza ChatBot
-https://bot.dialogflow.com/95e740a8-58be-4970-803b-65efea6834ca<br/>
 https://rb.gy/qedpfw
+
+https://bot.dialogflow.com/95e740a8-58be-4970-803b-65efea6834ca<br/>
 
 ## Steps to use YoYoPizza ChatBot<br/>
 1. Say Hi, Hello and Hey to start the chatbot 
