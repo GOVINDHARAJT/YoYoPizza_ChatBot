@@ -1,0 +1,98 @@
+[
+  {
+    "id": "4cbe7b98-e8da-482d-8d0f-42260f8c9af8",
+    "data": [
+      {
+        "text": "i want the size ",
+        "userDefined": false
+      },
+      {
+        "text": "medium",
+        "alias": "pizzasize",
+        "meta": "@pizza-size",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "477fc0df-3b23-479b-98c7-840739766cc1",
+    "data": [
+      {
+        "text": "medium",
+        "alias": "pizzasize",
+        "meta": "@pizza-size",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "78ec9878-5b57-4b7e-b475-846d9c7a3084",
+    "data": [
+      {
+        "text": "large",
+        "alias": "pizzasize",
+        "meta": "@pizza-size",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f64680d2-f601-4e9d-b6ed-b37190bac65e",
+    "data": [
+      {
+        "text": "i want the size to be ",
+        "userDefined": false
+      },
+      {
+        "text": "large",
+        "alias": "pizzasize",
+        "meta": "@pizza-size",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f399d8b6-3b44-4a3b-baea-4b8aa709c0d4",
+    "data": [
+      {
+        "text": "regular",
+        "alias": "pizzasize",
+        "meta": "@pizza-size",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c7022b08-6693-43e5-80f3-775ffd569699",
+    "data": [
+      {
+        "text": "give me ",
+        "userDefined": false
+      },
+      {
+        "text": "regular",
+        "alias": "pizzasize",
+        "meta": "@pizza-size",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "8548fd52-1427-4a8c-b020-0f05c40f6337",
+    "data": [
+      {
+        "text": "non veg",
+        "alias": "pizzatype",
+        "meta": "@pizza-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dfd66460-365c-42b0-8809-4332b2e9f68a",
+    "data": [
+      {
+        "text": "veg",
+        "alias": "pizzatype",
+        "meta": "@pizza-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
